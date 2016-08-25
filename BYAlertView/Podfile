@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, "8.0"
+
+pod 'XFDialogBuilder','1.1.3'
+
+target :MyAlertViewTests, :exclusive => true do
+  # pod 'Kiwi'
+end

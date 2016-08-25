@@ -1,0 +1,16 @@
+PODS:
+  - pop (1.0.9)
+  - UITextView+Placeholder (1.2.0)
+  - XFDialogBuilder (1.1.3):
+    - pop
+    - UITextView+Placeholder
+
+DEPENDENCIES:
+  - XFDialogBuilder (= 1.1.3)
+
+SPEC CHECKSUMS:
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  UITextView+Placeholder: 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+  XFDialogBuilder: 3eea2f7d94f7b14afd7562f204296672413ad617
+
+COCOAPODS: 0.39.0
