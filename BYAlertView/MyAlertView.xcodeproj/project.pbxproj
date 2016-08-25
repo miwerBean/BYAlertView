@@ -201,9 +201,9 @@
 			isa = PBXGroup;
 			children = (
 				46825F231D6AE6E200050BD1 /* EBForeNotification */,
+				46825F4B1D6AF60A00050BD1 /* SVProgressHUD */,
 				46D9E3F81D4EF26900543756 /* AppDelegate.h */,
 				46D9E3F91D4EF26900543756 /* AppDelegate.m */,
-				46825F4B1D6AF60A00050BD1 /* SVProgressHUD */,
 				46D9E3FB1D4EF26900543756 /* ViewController.h */,
 				46D9E3FC1D4EF26900543756 /* ViewController.m */,
 				46D9E3FE1D4EF26900543756 /* Main.storyboard */,
@@ -611,7 +611,7 @@
 			baseConfigurationReference = 5C044A0322C15D86794BE89C /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				GCC_PREFIX_HEADER = /Users/miwer/Desktop/2.5AppCode/miwerDemo/MyAlertViewFinal/MyAlertView/PrefixHeader.h;
+				GCC_PREFIX_HEADER = /Users/miwer/Desktop/BeanGithubProjects/BYAlertView/BYAlertView/MyAlertView/PrefixHeader.h;
 				INFOPLIST_FILE = MyAlertView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -628,7 +628,7 @@
 			baseConfigurationReference = 4F2612AA7FB77F61DF10792A /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				GCC_PREFIX_HEADER = /Users/miwer/Desktop/2.5AppCode/miwerDemo/MyAlertViewFinal/MyAlertView/PrefixHeader.h;
+				GCC_PREFIX_HEADER = /Users/miwer/Desktop/BeanGithubProjects/BYAlertView/BYAlertView/MyAlertView/PrefixHeader.h;
 				INFOPLIST_FILE = MyAlertView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
